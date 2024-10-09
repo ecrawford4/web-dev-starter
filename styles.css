@@ -3,14 +3,14 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background: #b4b4f4;
+    background: #f4f4f4;
     color: #333;
 }
 
 /* Header styles */
 header {
-    background-color: #4CAF50;
-    color: white;
+    background-color: #333333;
+    color: #f4f4f4;
     padding: 1rem;
     text-align: center;
 }
